@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What are your business hours?",
+    "answer": "Our support team is available Monday to Friday, 9:00 AM to 5:00 PM. We are closed on public holidays."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our support team by emailing support@example.com. Please include your account email and a short description of the issue."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Select 'Forgot password' on the sign-in page and follow the instructions sent to your registered email address. Check your spam folder if you do not see the email."
+  },
+  {
+    "question": "I did not receive the password reset email. What should I do?",
+    "answer": "Check your spam or junk folder and confirm that you entered the email address associated with your account. If the message still does not arrive, contact support@example.com."
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Select 'Sign up' on the website and complete the registration form. Follow any email verification instructions shown after registration."
+  },
+  {
+    "question": "Can I change the email address on my account?",
+    "answer": "For account email changes, contact support@example.com from your registered email address so the team can help verify your request."
+  },
+  {
+    "question": "How do I update my profile?",
+    "answer": "Sign in, open your account or profile settings, update the available fields, and save your changes."
+  },
+  {
+    "question": "Is there a free trial?",
+    "answer": "Please check the current plan or pricing page for trial availability. If the page does not show a trial offer, contact support for confirmation."
+  },
+  {
+    "question": "Where can I see pricing?",
+    "answer": "Current pricing and plan details are listed on the website's Pricing page."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "Accepted payment methods are displayed during checkout. If your preferred method is not listed, contact support@example.com before placing your order."
+  },
+  {
+    "question": "How can I download an invoice?",
+    "answer": "If invoices are available for your account, sign in and open Billing or Order History to view and download them. Contact support if you cannot find an invoice."
+  },
+  {
+    "question": "Can I cancel my subscription?",
+    "answer": "Open your account's Billing or Subscription settings to check available cancellation options. Contact support if you cannot access those settings."
+  },
+  {
+    "question": "Will I receive a refund after cancelling?",
+    "answer": "Refund eligibility depends on the applicable refund policy and your purchase details. Please review the refund policy or contact support for a decision about your account."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refund processing times can vary by payment method and provider. Contact support with your order details for an update on a specific refund."
+  },
+  {
+    "question": "How do I change my subscription plan?",
+    "answer": "Check your account's Billing or Subscription settings for available plan changes. If you do not see the option you need, contact support."
+  },
+  {
+    "question": "Can I use the service on my phone?",
+    "answer": "You can open the website in a modern mobile browser. The exact features available may depend on your device and browser."
+  },
+  {
+    "question": "Which browsers are supported?",
+    "answer": "For the best experience, use an up-to-date version of a major browser such as Chrome, Firefox, Safari, or Edge."
+  },
+  {
+    "question": "The website is not loading. What can I do?",
+    "answer": "Refresh the page, check your internet connection, and try an updated browser or a private window. If the problem continues, contact support and describe the error."
+  },
+  {
+    "question": "I cannot sign in to my account.",
+    "answer": "Check that your email and password are correct, confirm that Caps Lock is off, and use the password reset option if needed. Contact support if you still cannot sign in."
+  },
+  {
+    "question": "How do I report a bug?",
+    "answer": "Email support@example.com with the steps to reproduce the issue, what you expected to happen, what happened instead, and any error message or screenshot you can share."
+  },
+  {
+    "question": "How do I request a new feature?",
+    "answer": "Send your suggestion to support@example.com. Describe the problem you are trying to solve and how the feature would help."
+  },
+  {
+    "question": "Is my personal information secure?",
+    "answer": "Please review the website's Privacy Policy for details about how personal information is handled. Contact support if you have a specific privacy question."
+  },
+  {
+    "question": "Where can I read your privacy policy?",
+    "answer": "The Privacy Policy is available through the website's footer or legal section."
+  },
+  {
+    "question": "Do you share my data with other companies?",
+    "answer": "Please refer to the Privacy Policy for information about data sharing and service providers. Contact support if you need clarification about a particular use of data."
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "Contact support@example.com to ask about account deletion and any verification steps required."
+  },
+  {
+    "question": "Can I export my data?",
+    "answer": "Available data export options depend on the account features. Check your account settings or contact support to ask about exporting your data."
+  },
+  {
+    "question": "How do I check the status of my order?",
+    "answer": "If you placed an order, sign in and open Order History or the order confirmation email for the latest available status. Contact support if you need help."
+  },
+  {
+    "question": "Can I change or update an order?",
+    "answer": "Order changes may depend on the order's status. Contact support as soon as possible and include your order number."
+  },
+  {
+    "question": "I received an error during checkout. What should I do?",
+    "answer": "Check that your billing details are correct, refresh the page, and try again once. Avoid submitting repeated payments if you are unsure whether a payment succeeded; contact support with the error details."
+  },
+  {
+    "question": "How do I contact support outside business hours?",
+    "answer": "Email support@example.com at any time. The team will respond during its normal business hours, Monday to Friday, 9:00 AM to 5:00 PM."
+  }
+]
