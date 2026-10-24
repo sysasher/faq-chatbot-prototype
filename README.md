@@ -140,15 +140,6 @@ pytest -q
 
 Tests cover question matching (`tokenize`, `retrieve_faqs`) and the fallback message.
 
-## Notes and limitations (prototype, not production)
-
-- Matching is keyword-overlap based, not semantic search. It can miss paraphrased questions — test it with real customer phrasing and tune `MATCH_THRESHOLD` in `backend/main.py` if needed.
-- No LLM can be perfectly guaranteed to stay on-topic; test out-of-scope questions before relying on this.
-- Conversation history lives only in the browser tab (not saved anywhere) and nothing is logged server-side.
-- Before any live-site use, add rate limiting, input validation hardening, and a CORS allowlist instead of `allow_origins=["*"]`.
-- The shipped `GEMINI_API_KEY` is a free-tier demo key meant only for trying this prototype. It may be rate-limited or revoked after the review period — swap in your own key for anything beyond that (see [Conversational answers (Gemini / OpenAI)](#conversational-answers-gemini--openai)).
-
-## Before handing this off as finished
 
 - [ ] Replace the sample FAQs in `backend/faq.json` with the client's approved content
 - [ ] Replace `support@example.com` with the client's real support email
